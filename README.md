@@ -1,5 +1,5 @@
 # hastaneyonetimsistemi
-
+VERİ TABANI SQL İFADELERİ
 --
 -- PostgreSQL database dump
 --
